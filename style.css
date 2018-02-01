@@ -1,0 +1,95 @@
+html, .row {
+	background-color: #F6F6F6;
+	font-family: sans-serif;
+	font-weight: 200;
+}
+
+.row {
+	padding-top: 30px;
+}
+
+.addnews > input {
+	padding:5px;
+
+}
+
+.addnews > .title {
+	width: 65%;
+
+}
+
+.addnews > .author {
+	width: 30%;
+	float: right;
+}
+
+.pubdate {
+	margin-right: 10px;
+}
+
+
+
+.col-md-6 {
+	border-radius: 5px;
+	background-color: white;
+	box-shadow: 0 0 10px black;
+	padding: 20px;
+}
+
+.article {
+	display: block;
+	margin-top: 10px;
+}
+
+.file {
+	display: block;
+	margin-top: 30px;
+}
+
+.upperline > div {
+	display: inline-block;
+}
+
+.articlepic {
+	max-width: 100%;
+}
+
+.viewslikes {
+	float: right;
+}
+
+.links {
+	background-color: white;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.like {
+	font-size: 30px;
+	margin-left: 45%;
+}
+
+
+
+.comment > div {
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.userpic {
+	width: 100px;
+}
+
+.author {
+	font-weight: 500;
+	margin-bottom: 10px;
+}
+
+.addcomment {
+	padding-bottom: 20px;
+}
+
+.addcomment > button {
+	margin-top: 5px;
+	float: right;
+}
